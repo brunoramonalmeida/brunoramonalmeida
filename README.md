@@ -1,16 +1,33 @@
-### Hi there 👋
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world! I'm Bruno Ramon Almeida!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-<!--
-**brunoramonalmeida/brunoramonalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🖥️ I'm a Senior Full-Stack Web and Mobile Developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗺️ I’m from Ceará, Brazil. 
+
+📚 I’m currently interested in launch projects and expand my skills.
+
+ 
+## About me
+
+My main goal is to become a Front-end developer, I'm currently learning web development, I also study Python, to improve my codes.
+In the future I want to learn Flutter to develop for Android and IOS.
+
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+ 
+
+<a href="https://github.com/brunoramonalmeida">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramonalmeida" />
+</a>
+<a href="https://github.com/brunoramonalmeida">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunoramonalmeida&show_icons=true&line_height=27" alt="Shubhamdeep's github stats"/>
+
+# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/brunoramonalmeida) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/brunoramonalmeida) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:brunoramonalmeida@gmail.com)
+
+
+- Thanks for visiting.
+
+- Enjoy it!!
